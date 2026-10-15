@@ -1,2 +1,2 @@
-# git_practice
+# github_demo_practice
 Practice 1
